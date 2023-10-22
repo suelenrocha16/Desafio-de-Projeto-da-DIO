@@ -1,4 +1,4 @@
-# Desafio-de-Projeto-da-DIO
+# Desafio de Projeto da DIO
 
 Link: https://app.powerbi.com/groups/me/reports/1d9cff67-0194-470f-a743-fe08ddd5a780/ReportSection?experience=power-bi
 
